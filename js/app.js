@@ -34,7 +34,7 @@
 {
     //6
     function kotta(soz) {
-        return soz.slice(-3).toUpperCase();
+        return soz.slice(2).toUpperCase();
     }
     console.log(kotta("salom"));
 }
