@@ -48,15 +48,6 @@
 }
 
 {
-    //9
-     function boshJoy(soz){
-         return soz.replace(/-/, " ").split(" ").join(" ")
-     }
-     console.log( boshJoy("Assalomu-Alaykum 33") );
-    
-}
-
-{
     // 10
     function email(soz){
         let a = soz.indexOf("@")
